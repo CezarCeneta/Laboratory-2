@@ -34,7 +34,7 @@ class CylinderVol extends Cylinder {
 //Display results of the calculation of Area and Volume
     void displayResults() {
         System.out.println("Area of cylinder: " + area);
-        System.out.println("Volume of  cylinder: " + volume);
+        System.out.println("Volume of cylinder: " + volume);
     }
 
     public static void main(String[] args) {
