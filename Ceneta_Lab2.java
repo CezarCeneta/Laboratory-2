@@ -1,4 +1,3 @@
-// Cylinder.java
 import java.util.Scanner;
 
 //Create Cylinder Class
@@ -23,7 +22,7 @@ class Cylinder {
         area = 2 * Math.PI * Math.pow(radius, 2) + 2 * Math.PI * radius * height;
     }
 }
-// CylinderVol.java
+
 class CylinderVol extends Cylinder {
     double volume;
 
